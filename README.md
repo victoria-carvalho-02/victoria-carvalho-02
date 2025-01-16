@@ -1,17 +1,23 @@
-## Hi there 👋
+## Hi there, I am Victoria Carvalho ✨
 
+Thank you for stepping in! 
+
+I am a curious mind powered by tea, ambition, and the occasional spark of genius. I specialize in solving problems, sometimes before they even exist. But enough about me—below are some quick points that'll tell you what I'm all about. Don’t stop here—it gets better as you scroll!"
 <!--
 **victoria-carvalho-02/victoria-carvalho-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on implementing Variational Auto Encoder (VAE)
-- 🌱 I’m currently learning about information visualization
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Machine Leaning topics, energy modelling!
-- 📫 How to reach me: victoria.m.carvalho@outlook.com
-- ⚡ Fun fact: I am powered by tea and Korean dramas, my ML models stay as caffeinated as I do!
 -->
+- 🕵️‍♀️ I'm currently pushing the boundaries of Generative AI
+- 🔭 I’m working on my foundations on implementing Variational Auto Encoder (VAE)
+- 🌱 I’m pursuing my masters in Computer Science at University of Stuttgart
+- 💻 I am part-time student research assistant at Fraunhofer IPA
+- 🤹‍♀️ I dabble in developing and deploying machine learning models to tackle real-world challenges—think of me as a tech detective solving mysteries like energy consumption prediction (my latest case cracked!)
+- 💬 Feel free to ask me about Machine Learning, Data Science, Energy Modeling, or even Korean drama recommendations—I’d be happy to chat about any of these!
+- 📫 How to reach me: victoria.m.carvalho@outlook.com
+- ⚡ Fun fact: I’m not just training models—I’m training myself to balance the world of tech, dancing and drama marathons like a pro!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoria-carvalho-02)
+
+
+
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoria-carvalho-02) -->
