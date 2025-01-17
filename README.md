@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - 🕵️‍♀️ I'm currently pushing the boundaries of Generative AI
 - 🔭 I’m working on my foundations on implementing Variational Auto Encoder (VAE)
-- 🌱 I’m pursuing my masters in Computer Science at University of Stuttgart
+- 🌱 I’m pursuing my masters in Computer Science at the University of Stuttgart
 - 💻 I am a part-time student research assistant at Fraunhofer IPA
 - 🤹‍♀️ I dabble in developing and deploying machine learning models to tackle real-world challenges—think of me as a tech detective solving mysteries like energy consumption prediction (my latest case cracked!)
 - 💬 Feel free to ask me about Machine Learning, Data Science, Energy Modeling, or even Korean drama recommendations—I’d be happy to chat about any of these!
