@@ -9,7 +9,7 @@ I am a curious mind powered by tea, ambition, and the occasional spark of genius
 Here are some ideas to get you started:
 -->
 - 🕵️‍♀️ I'm currently pushing the boundaries of Generative AI
-- 🔭 I’m working on my foundations on implementing Variational Auto Encoder (VAE)
+- 🔭 I’m focusing on strengthening my foundational understanding to implement a Variational Auto Encoder (VAE)
 - 🌱 I’m pursuing my masters in Computer Science at the University of Stuttgart
 - 💻 I am a part-time student research assistant at Fraunhofer IPA
 - 🤹‍♀️ I dabble in developing and deploying machine learning models to tackle real-world challenges—think of me as a tech detective solving mysteries like energy consumption prediction (my latest case cracked!)
