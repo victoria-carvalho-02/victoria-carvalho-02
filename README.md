@@ -8,13 +8,13 @@ I am a curious mind powered by tea, ambition, and the occasional spark of genius
 
 Here are some ideas to get you started:
 -->
-- 🕵️‍♀️ I'm currently pushing the boundaries of Generative AI
-- 🔭 I’m focusing on strengthening my foundational understanding to implement a Variational Auto Encoder (VAE)
+- 🕵️‍♀️ I'm currently looking for part time/ full time roles
+<!--- 🔭 I’m focusing on strengthening my foundational understanding to implement a Variational Auto Encoder (VAE)
 - 🌱 I’m pursuing my masters in Computer Science at the University of Stuttgart
-- 💻 I am a part-time student research assistant at Fraunhofer IPA
-- 🤹‍♀️ I dabble in developing and deploying machine learning models to tackle real-world challenges—think of me as a tech detective solving mysteries like energy consumption prediction (my latest case cracked!)
-- 💬 Feel free to ask me about Machine Learning, Data Science, Energy Modeling, or even Korean drama recommendations—I’d be happy to chat about any of these!
-- ⚡ Fun fact: I’m not just training models—I’m training myself to balance the world of tech, dancing and drama marathons like a pro!
+- 💻 I am a part-time student research assistant at Fraunhofer IPA 
+- 🤹‍♀️ I dabble in developing and deploying machine learning models to tackle real-world challenges—think of me as a tech detective solving mysteries like energy consumption prediction (my latest case cracked!)-->
+- 💬 Feel free to ask me about Data Management, Event organization, Automation  or even Korean drama recommendations - I’d be happy to chat about any of these! 
+
 
 
 
