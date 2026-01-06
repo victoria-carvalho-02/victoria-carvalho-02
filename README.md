@@ -2,7 +2,7 @@
 
 Thank you for stepping in! 
 
-I am a curious mind powered by tea, ambition, and the occasional spark of genius. I specialize in solving problems, sometimes before they even exist. Below are some quick points that'll tell you what I'm all about. Don’t stop here—it gets better as you scroll!"
+I am a curious mind powered by tea, ambition, and the occasional spark of genius. I specialize in solving problems, sometimes before they even exist. Below are some quick points that'll tell you what I'm all about. Don’t stop here, it gets better as you scroll!"
 <!--
 **victoria-carvalho-02/victoria-carvalho-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
