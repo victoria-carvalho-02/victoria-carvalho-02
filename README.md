@@ -8,7 +8,7 @@ I am a curious mind powered by tea, ambition, and the occasional spark of genius
 
 Here are some ideas to get you started:
 -->
-- 🕵️‍♀️ I'm currently looking for full time roles, especially Scientific Coordinator, Scientific Project Manager, Strategy Consultant and Research Project Manager roles
+- 🕵️‍♀️ I'm currently looking for full time roles, especially Scientific Coordinator, Scientific Project Manager, Strategy Consultant and Research Associate roles
 <!--- 🔭 I’m focusing on strengthening my foundational understanding to implement a Variational Auto Encoder (VAE)
 - 🌱 I’m pursuing my masters in Computer Science at the University of Stuttgart
 - 💻 I am a part-time student research assistant at Fraunhofer IPA 
