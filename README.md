@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <!--- 🔭 I’m focusing on strengthening my foundational understanding to implement a Variational Auto Encoder (VAE)
 - 🌱 I’m pursuing my masters in Computer Science at the University of Stuttgart
 - 💻 I am a part-time student research assistant at Fraunhofer IPA -->
-- 🤹‍♀️ I dabble in developing and deploying machine learning models to tackle real-world challenges—think of me as a tech detective solving mysteries like energy consumption prediction, AI operational optimation for EV charging (my latest case cracked!)
+- 🤹‍♀️ I dabble in developing and deploying machine learning models to tackle real-world challenges: think of me as a tech detective solving mysteries like energy consumption prediction, AI operational optimation for EV charging (my latest case cracked!)
 - 💬 Feel free to ask me about Data Management, Energy analystics, Event organization, Automation or even Korean drama recommendations - I’d be happy to chat about any of these! 
 
 
