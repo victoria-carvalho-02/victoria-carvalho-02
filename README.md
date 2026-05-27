@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m pursuing my masters in Computer Science at the University of Stuttgart
 - 💻 I am a part-time student research assistant at Fraunhofer IPA -->
 - 🤹‍♀️ I dabble in developing and deploying machine learning models to tackle real-world challenges: think of me as a tech detective solving mysteries like energy consumption prediction, AI operational optimation for EV charging (my latest case cracked!)
-- 🕵️‍♀️ I'm currently looking for full time roles, especially roles such as Data Engineer, Energy Analyst, Strategy Consultant and Research Associate roles
+- 🕵️‍♀️ I'm currently looking for full time roles, especially roles such as Data Engineer/Scientist/Analyst, Energy Analyst, Strategy Consultant and Research Associate roles
 - 💬 Feel free to ask me about Data Management, Energy analystics, Event organization, Automation or even Korean drama recommendations - I’d be happy to chat about any of these! 
 
 
